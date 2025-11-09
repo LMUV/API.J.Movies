@@ -23,8 +23,8 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="DAL\Dtos\" />
+    <Folder Include="DAL\Models\Dtos\" />
     <Folder Include="MoviesMapper\" />
-    <Folder Include="Repository\IRepository\" />
   </ItemGroup>
 
 </Project>
